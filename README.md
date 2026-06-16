@@ -1,1 +1,1 @@
-# Knowledge Graph RAG using Neo4J
+# Knowledge Graph RAG using Neo4J.
